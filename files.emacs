@@ -1,0 +1,10 @@
+;; This buffer is for text that is not saved, and for Lisp evaluation.
+;; To create a file, visit it with C-x C-f and enter text in its buffer.
+
+
+(file-exists-p "/home/terry/website/jquery/01.css")
+
+(file-directory-p "/home/terry/website/jquery/001")
+
+(file-exists-p "/home/terry/website/jquery/001")
+
